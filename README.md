@@ -3,7 +3,11 @@
 *Ultilize este código para fazer o clone do repositório:*
 
 #importando modulos
+
+
 import os
+
+
 from getpass import getpass
 
 class autent_git(object):
@@ -43,7 +47,13 @@ class autent_git(object):
     else:
       print("Autenticação de token realizada com sucesso.")
 
+
+
 - Depois de criar a classe, instancie seus dados:
 
+
+
 #instanciando autenticação
+
+
 user_git = autent_git('', "", '')
