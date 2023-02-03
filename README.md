@@ -59,8 +59,6 @@ Ainda, foram observadas mais características das vendas:
 
 ## Conclusão
 
-1 - Dos análise:
-
 Realizando alguns agrupamentos e sumarização dos dados, pode-se perceber que:
 
  - As vendas online são as que mais geraram lucro operacional no período analisando, correspondente sozinha à 53.26%;
@@ -68,7 +66,8 @@ Realizando alguns agrupamentos e sumarização dos dados, pode-se perceber que:
  - Quanto as características geográficas iniciais das cidades que registraram lucro operacional das vendas online, percebe-se que nenhuma das cidades foi capaz de se destacar visivelmente das demais. Quando ranquedas, as cidades se apresentam bem próximas, e, o agrupamento revelou que não se pode ignorar as cidades com menos de 1% do lucro gerado, pois, quando agregadas, represetam mais de 7% - posição em que nenhuma cidade isolada alcançou.
  - As mulheres que realizaram compra de quaisquer dos estilos do produto "Footwear", foram responsáveis pela maior parte do lucro operacional das vendas online, registrado no centro-leste dos EUA.
 
-2 - Como próximo passo, poderíamos adicionar à nossa análise, dados demográficos dos EUA, bem como dados relacionados à localização dos centros de distribuição das empresas que apresentadas no projeto. Razendo alguns agrupamentos, poderíamos dar mais um passo, aplicando algumas estatísticas básicas na expliração dos dados, algoritmos de agrupamento, e, realizar previsões.
+
+Como próximo passo, poderíamos adicionar à nossa análise, dados demográficos dos EUA, bem como dados relacionados à localização dos centros de distribuição das empresas que apresentadas no projeto. Razendo alguns agrupamentos, poderíamos dar mais um passo, aplicando algumas estatísticas básicas na expliração dos dados, algoritmos de agrupamento, e, realizar previsões.
 
 
 ## Referências
