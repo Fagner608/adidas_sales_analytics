@@ -43,6 +43,7 @@ Fonte dos dados: [kaggle](https://www.kaggle.com/datasets/heemalichaudhari/adida
 ## Visualizar
 
 1 - Acesse clicando no arquivo 'projeto.ipynb', neste repositório, ou
+
 2 - Clique no seguinte link, para visualizar palo Google Colab (indicado, para o processamento dos dados dos mapas): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Fagner608/adidas_sales_analytics/blob/main/projeto.ipynb)
 
 ## Resultados
